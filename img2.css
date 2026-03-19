@@ -1,0 +1,14 @@
+.img-fluid
+{
+    display: block;
+    margin-left: 775px;
+    margin-right: 40px;
+    position:inherit;
+}
+.col-lg-6
+{
+    position: absolute;
+    right: 17%;
+    transform: translateX(-50%);
+    margin-right: 0px;
+}
